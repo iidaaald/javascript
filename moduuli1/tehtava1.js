@@ -1,11 +1,5 @@
-const objekti = {avain: 'arvo'}
+/*
+Write a program that logs to the console this text: I'm printing to console!
+*/
 
-const lista = ['asd', 'sdfg', 12]
-const nimi =prompt('Anna nimi')
-
-console.log(nimi)
-console.log(nimi, 'Hei miä olen Pekka.', lista, objekti)
-console.log(lista)
-
-document.querySelector('#nimi').innerHTML =
-    document.querySelector('#nimi').innerHTML + nimi
+console.log("I'm printing to console!")
